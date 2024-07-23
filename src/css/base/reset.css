@@ -17,6 +17,11 @@ p {
     margin: 0;
 }
 
+body {
+    padding: 50px;
+    background-color: rgb(225, 225, 225);
+}
+
 p:last-child {
     margin-bottom: 0;
 }
